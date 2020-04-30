@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Tecs | Inclusão Digital</title>
+        <link rel="stylesheet" href="/~tecs/assets/css/main.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+        <link rel="shortcut icon" href="/~tecs/assets/icon/favicon.ico">
+        <meta name="msapplication-config" content="/~tecs/assets/icon/browserconfig.xml">
+        <noscript><link rel="stylesheet" href="/~tecs/assets/css/noscript.css"></noscript>
+    </head>
+
+    <body>
+    <div id="wrapper" class="fade-in">
+        <header id="header">
+            <a href="https://tecs.ime.usp.br" class="logo">Tecs | ID - Inclusão Digital</a>
+        </header>
+        <nav id="nav">
+            <ul class="links">
+                <li class=""><a href="index.html">Início</a></li>
+                <li class=""><a href="aulas.html">Aulas</a></li>
+            </ul>
+        </nav>
+        <div id="main">
+            <section class="post">
+            <!-- esta seção muda -->

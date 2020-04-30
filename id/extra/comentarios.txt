@@ -1,0 +1,25 @@
+COLIBRE
+Essencialmente tem uns pontos interessantes para nos lembrarmos contando a partir da página 22, em especial, as figuras, os trechos sobre operação de arquivos etc.
+
+Antes da 22, tem algum conteúdo legal, mas não sei até onde é interessante falar sobre software livre nesse primeiro contato.
+
+CEAP
+Gostei dos trechos que falam sobre unidades (kB, MB, GB etc). Pareceu algo relevante desmistificar o que aparece nos diversos anúncios de computadores que aparecem à venda por aí.
+
+Inclusive, trata-se de um material um tanto diferente do que se veicula, pois parte dele cai bastante na área de "cultura geral" sobre computadores, em especial, a NETiqueta. Tem WordArt!
+UFFS
+O trecho de hardware é muito bem feito. O de Windows 7 parece muito parecido com o que queremos passar no curso havendo, ainda, menção ao Ubuntu.
+
+Continuei folheando aí tem um trecho de redes que ficou bem legal. Em particular ele fala de algumas coisas que apareceram nos nossos tópicos como "como usar o Google" etc. Ainda versa sobre tópicos de segurança iguais aos que discutimos. Pareceu um bem completo.
+
+UFSM
+Material desenvolvido para o curso de informática do Pronatec. A organização é fantástica. É muito bem ilustrado!
+
+Gostei, também, da introdução. Como se trata de um material de curso, ainda vem com exercícios de graça.
+
+IFB
+A parte de hardware é muito bem feita, chega ao ponto de se discutir coisas sobre núcleos, hyperthreading etc. Nessa altura do campeonato, não achei algo tão diferente dos outros materiais no Libre Office. Contudo, no final, há um trecho legal de segurança na Internet, no espírito que imaginamos, eu acho.
+
+Outros
+Cheguei a levantar mais materiais, mas não encontrei nada que se destacasse como os descritos acima.
+

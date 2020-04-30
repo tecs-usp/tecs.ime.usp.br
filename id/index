@@ -1,0 +1,13 @@
+            <h1><a href="https://docs.google.com/document/d/e/2PACX-1vTjCsHjl2aSOhrFmhEe7qe65sG_i5MgK4RuCOku7k1-XsUY5J0UrpxMUJEjc08c0rPaLbiPXjhN1Nzx/pub">Nova apostila do Tecs</a></h1>
+            <br><br>
+            <h2>Conte-nos mais sobre você</h2>
+            <p><a target="_blank" href="https://goo.gl/forms/yuhUkXKsNTEa4Cr93">Link para o formulário</a></p>
+            <h2>Materiais</h2>
+            <p>Temos algumas apostilas que coletamos para complementar o material do curso. Alguns são cursos completos.</p>
+            <ul>
+                <!--<li><a href="extra/CEAP.pdf">CEAP: Introdução à Informática (slides)</a></li>-->
+                <li><a href="extra/COLIBRE.pdf">COLIBRE: Introdução aos conceitos do Software Livre</a></li>
+                <li><a href="extra/IFB.pdf">IFB: Informática Básica para o Ensino Técnico Profissionalizante</a></li>
+                <li><a href="extra/UFFS.pdf">UFFS: Introdução à Informática com LibreOffice</a></li>
+                <li><a href="extra/UFSM.pdf">UFSM: Introdução à Informática</a></li>
+            </ul>

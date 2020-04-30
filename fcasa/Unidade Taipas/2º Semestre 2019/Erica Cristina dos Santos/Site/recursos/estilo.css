@@ -1,0 +1,29 @@
+h1 {
+	color: rgb(255, 0, 102); background-color:rgb(255, 153, 153);
+	font-size: 100px;
+
+
+}
+.distaque{
+	color: red;
+}
+.alerta{
+	height: 350px;
+	width: 350px;
+    display: block;
+    border: 5px dotted red;
+}
+
+body{ 
+	background-color:rgb(255, 230, 204);
+	
+	font-size: 50 px; /*Isto não faz nada porque deveria ser "50px" sem espaço. Mas 50px é muito grande!*/
+	text-align: center;
+	
+
+ }
+ .erica{
+ 	border-radius:50%;
+ 	border: 5px dotted rgb(255, 230, 0);
+
+ }

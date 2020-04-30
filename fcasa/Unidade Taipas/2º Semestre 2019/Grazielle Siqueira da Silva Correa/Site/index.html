@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title> Grazielle </title>
+<link rel="stylesheet"  href="recursos/estilo2.css">
+<meta charset="utf-8">
+
+</head>
+<body>
+<h1> Grazielle Siqueira </h1>
+
+<h2> Blessed By God</h2>
+
+<h2 class="gap">  Neide Siqueira      </h2>
+<h3> Bom primeiramente minha rainha eu quero te dizer que eu te amo muito e que independente de qualquer coisa eu jamais vou te esquecer!Mãe eu quero que voce saiba que logo logo eu estou ai com voce me perdoa por tudo a senhora nao merece nada disso sei que eu não fui a melhor filha mais vou te dar muito orgulho eu te amo !  </h3>
+<img src="recursos/mãe2.jpg">
+
+<li> Amigos </li>
+
+<li>Amigos 
+Eu Nunca Vou Desistir De Vocês E Pela Suas Vidas Eu Vou Interceder Mesmo Que Eu Estaja longe meu amor vai te guardar pk voces é impossivel de esqueçer</li>
+<li>Kaillane Santos</li>
+<li>Ana Carolina</li>
+<li>Elizabella Menezes</li>
+<li>Kesley Sarah</li>
+<li>Sabrina Rocha</li>
+<li>Vita Aparecida</li>
+<li>Bianca Souza</li>
+<li>Suzane Felix</li>
+<li>Mirella Ferreira</li>
+<li>Nithelly Paixão</li>
+<img src="recursos/amigos1.gif">
+
+</ul>
+
+
+<br><br>
+<p style="font-size: 10px">Versões anteriores do site:
+<br><a href="Cereja.html">Versão 1</a>
+<br><a href="Cereja v2.html">Versão 2</a>
+<br><a href="Cereja v3.html">Versão 3</a>
+</p>
+
+<!--Mágica para fazer o botão de mudar o CSS funcionar.-->
+<script>
+curCSS=0;
+function changeCSS(cssFile, cssLinkIndex) {
+
+    var oldlink = document.getElementsByTagName("link").item(cssLinkIndex);
+
+    var newlink = document.createElement("link");
+    newlink.setAttribute("rel", "stylesheet");
+    newlink.setAttribute("type", "text/css");
+    newlink.setAttribute("href", cssFile);
+
+    document.getElementsByTagName("head").item(0).replaceChild(newlink, oldlink);
+}
+function loopthroughCSS() {
+    curCSS=(curCSS+1)%2;
+    if(curCSS)
+        changeCSS("recursos/estilo1.css",0);
+    else
+        changeCSS("recursos/estilo2.css",0);
+}
+</script>
+
+<button><a href="#" style="color: rgb(153, 51, 255);" onclick="loopthroughCSS()">Trocar estilo</a></button>
+
+</body>
+
+
+</html>

@@ -1,0 +1,31 @@
+h1 {
+	color: red;
+font-size:50px;
+color: rgb(77, 0, 77);
+}
+h2 {color: blue;}
+img {height: 250px;
+width: 250px;}
+li {color:rgb(204, 0, 204); 
+	font-size: 30px;}
+body {background-color: rgb(0, 230, 230);}
+.livrolove
+{border:3px dotted rgb(77, 0, 77); }
+.varalcoraçao 
+{border :4px dotted rgb(77, 0, 77);}
+.saudade
+{height: 250px;
+width: 260;
+border:4px dotted rgb(77, 0, 77);
+border-radius: 50%;
+}
+
+.pluto 
+{border:5px dotted rgb(77, 0, 77) ;
+
+
+}
+/*
+RED
+GREEN
+BLUE

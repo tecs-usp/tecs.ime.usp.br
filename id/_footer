@@ -1,0 +1,27 @@
+            <!-- até aqui -->
+            </section>
+        </div>
+        <div id="copyright">
+        <ul>
+          <li>Tecs 2018</li>
+          <li>Design por <a href="https://html5up.net">HTML5 UP</a></li></ul>
+        </div>
+    </div>
+<script src="/~tecs/assets/js/jquery.min.js"></script>
+<script src="/~tecs/assets/js/jquery.scrollex.min.js"></script>
+<script src="/~tecs/assets/js/jquery.scrolly.min.js"></script>
+<script src="/~tecs/assets/js/skel.min.js"></script>
+<script src="/~tecs/assets/js/util.js"></script>
+<script src="/~tecs/assets/js/main.js"></script>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=default"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'default');
+</script>
+
+    </body>
+</html>

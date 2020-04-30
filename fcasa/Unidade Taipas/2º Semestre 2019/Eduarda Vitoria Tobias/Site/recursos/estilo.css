@@ -1,0 +1,26 @@
+h1{
+	color: purple;
+  font-size:130px;
+}
+
+img{
+	height: 350px;
+	width: 600px;
+}
+
+body{
+	background-color: pink;
+} 
+.amigos{ border: 2px dashed red;
+ }
+
+ li{
+ 	color: rgb(0, 170, 255);
+    font-size: 25px;
+
+}
+
+.liberdade{ 
+
+color: rgb(71, 71, 209);
+ }

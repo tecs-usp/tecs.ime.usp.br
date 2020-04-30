@@ -1,0 +1,28 @@
+h1{
+	color:purple;
+	font-size: 50px;
+
+}
+
+img{
+	height:350px;
+	width: 300px;
+	display: inline-block;
+}
+body{
+
+	background-color:rgb(0,230,230);
+}
+.helena{
+	border: 5px dashed purple;
+	display: block;
+border-radius:70%;
+}
+.texto{
+	border:3px solid purple;
+	color:rgb(255,255,255);
+}
+.lista{
+	color:rgb(255,255,255);
+}
+.gatinhos{ border-radius: 70%; }

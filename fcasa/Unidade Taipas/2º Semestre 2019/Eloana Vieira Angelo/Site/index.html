@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Eloana Vieira </title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="recursos/estilo2.css">
+
+</head>
+<body>
+
+
+<h1> Minha Gatinha</h1>
+<h4 class='texto'>    Quando eu te conheci, nunca pensei que iria me apaixonar pelo seu sorriso.Foi algo que de verdade eu nao sei oque aconteceu,voce entro na minha vida e criou uma historia que nao quero mais parar de ouvir sua voz,de sentir seu cheiro,do seu carinho e dos seus beijos.Achava que nao ia dar certo nos duas,porque a gente so brigava e pensava que nao iria-mos pra frente.E agora eu vejo o esforco que voce faz para a gente nao ficar descutindo atoa, por ciumes besta..@@ voce nao sabe o quanto que eu te desejo so de te imaginar,quando fico longe,ao mesmo tempo quero estar perto para saber oque voce deve estar fasendo se sabe que tenho muito ciumes de voce ne?? Nao consico imaginar nossa historia assim aconteceu e hoje estou feliz sim!tudo comecou estranho e sem querer nao sabia que iria tao longe com vc ,passar o tempo ao seu lado me deixa feliz, e a primeira vez que levo alguem a serio.Mas espero que se lembre e nunca se esqueca meu coracao e todo seu, antes de dormir eu penso na gente a tarde toda agarradas, isso nao sai da minha mente...achava que nunca iria-mos dar certo porque varios falavam que eu nao era pra voce 
+	e tal,mas eu nunca dei atencão para isso,porque realmente sempre te amei e nunca forçaria te fazer algo que nao queira eu so te quero o seu bem..
+                                                                                                                                               =    </h4>
+
+
+<ul class='lista'>
+
+<li>vou ter que te deixar aqui-- </li>
+<li>e agora falta pouco pra nos estamos na reta final</li>
+<li>mas eu sei que um dia vou te encontrar... </li>
+<img class="gatinhos" src="recursos/gato2.gif">
+<img class="gatinhos" src='recursos/gato02.jpg'>
+<img class='helena' src='recursos/mãe4.jpg'>
+
+
+</ul>
+
+<h4>  Que saudades que estou da senhora quero me lembrar dos momentos que 
+estava do lado da senhora que quando eu precisei </h4>
+
+
+<br><br>
+<p style="font-size: 10px">Versões anteriores do site:
+<br><a href="Gatinha.html">Minha Gatinha (antigo)</a>
+<br><a href="Leticia v2.html">Raica Leticia</a>
+<br><a href="Leticia.html">Raica Leticia (antigo)</a>
+</p>
+
+<!--Mágica para fazer o botão de mudar o CSS funcionar.-->
+<script>
+curCSS=0;
+function changeCSS(cssFile, cssLinkIndex) {
+
+    var oldlink = document.getElementsByTagName("link").item(cssLinkIndex);
+
+    var newlink = document.createElement("link");
+    newlink.setAttribute("rel", "stylesheet");
+    newlink.setAttribute("type", "text/css");
+    newlink.setAttribute("href", cssFile);
+
+    document.getElementsByTagName("head").item(0).replaceChild(newlink, oldlink);
+}
+function loopthroughCSS() {
+    curCSS=(curCSS+1)%2;
+    if(curCSS)
+        changeCSS("recursos/estilo1.css",0);
+    else
+        changeCSS("recursos/estilo2.css",0);
+}
+</script>
+
+<br>
+<button><a href="#" style="color: rgb(153, 51, 255);" onclick="loopthroughCSS()">Trocar estilo</a></button>
+</body>
+
+
+</html>

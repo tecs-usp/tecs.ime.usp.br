@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-03-11T12:13:36-03:00</updated><id>/</id><title type="html">Tecs | Grupo de comput{ação social} da USP</title><subtitle>Um grupo de extensão universitária focado no impacto social da computação e da tecnologia formado por alunos da Universidade de São Paulo.</subtitle><entry><title type="html">Debates: ética e tecnologia</title><link href="/blog/dilemas-eticos/" rel="alternate" type="text/html" title="Debates: ética e tecnologia" /><published>2018-03-08T00:00:00-03:00</published><updated>2018-03-08T00:00:00-03:00</updated><id>/blog/dilemas-eticos</id><content type="html" xml:base="/blog/dilemas-eticos/">&lt;h2 id=&quot;o-evento&quot;&gt;O Evento&lt;/h2&gt;
+
+&lt;p&gt;Fazendo valer a nossa missão, na qual entendemos que promover uma Computação Social é promover uma computação que pense sobre si mesma para além da técnica e que seja capaz de mensurar e considerar todas as implicações éticas do que carrega em si, promoveremos neste semestre um ciclo de palestras-debate para discutir temas tão atuais quanto necessários sobre responsabilidade tecnológica.&lt;/p&gt;
+
+&lt;p&gt;Quinzenalmente, um tema diferente. Confira a programação completa e venha com a gente debater esses assuntos, pois apenas juntos podemos repensar e mudar.&lt;/p&gt;
+
+&lt;p&gt;Sempre às 13h, no IME-USP.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-programação&quot;&gt;A programação&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;21/03 - Encontro #1&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Neutralidade da rede: o que é e por que é importante, com Nathalia Sautchuk - NIC.Br&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A neutralidade da rede é o princípio de que todas as informações que trafegam na rede devem ser tratadas da mesma forma e acessadas com a mesma velocidade, garantindo ao usuário o livre acesso a qualquer tipo de conteúdo na rede, sem ferir sua autonomia ou discriminar determinadas aplicações por consumo de banda larga. No Brasil, ela é garantida pelo Marco Civil da Internet, de 2014, mas há aspectos da prática atual que podemos questionar, como pacotes de internet que garantem acesso gratuito ao WhatsApp, mas não a outros aplicativos de mensagens instantâneas. Atualmente, o assunto tem sido muito discutido porque, nos Estados Unidos, a lei que garantia a neutralidade de rede foi suspensa pelo FCC. 
+&lt;strong&gt;[Texto parcialmente adaptado da Wikipedia.]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;11/04 - Encontro #2&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Privacidade e proteção de dados: seus dados são você, com Rafael Zanatta - Idec&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Os dados pessoais são chamados de “novo petróleo” da economia mundial por serem um recurso valiosíssimo, e a oferta aparentemente gratuita de diversas tecnologias importantes no nosso dia a dia, como o acesso a websites, redes sociais e outros tipos de aplicativos, é estimulada pela sua obtenção. Para manter esse tipo de negócio, é de interesse das empresas coletar o máximo de informações pessoais e fazer o que quiser com elas, muitas vezes sem explicitar para o consumidor, nos termos de uso, quem terá acesso a essas informações e o que poderá ser feito com elas. O primeiro prejuízo da coleta, guarda e comercialização ou compartilhamento dos nossos dados pessoais de maneira desregulada é para a privacidade das e dos cidadãs e cidadãos, que perdem o direito de escolher autonomamente o que querem compartilhar e com quem. O segundo é para a liberdade: os dados são utilizados para criar diversos filtros sociais e econômicos, que muitas vezes são discriminatórios. . Não temos, no Brasil, uma lei clara que garanta a proteção de dados pessoais. 
+&lt;strong&gt;[Texto adaptado da Coalizão Direitos na Rede.]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;25/04 - Encontro #3&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Inteligências artificiais, preconceitos reais: o viés dos algoritmos&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Cada vez mais, algoritmos deixam de ser parte do jargão técnico e tornam-se parte do vocabulário cotidiano da população. Entre o algoritmo do feed do facebook e estratégias de precificação, vivemos em um mundo no qual decisões automatizadas são progressivamente presentes, e acredita-se que tais programas são atores neutros. Mas será que são capazes de uma neutralidade que não é sequer presente entre seus criadores? Vivendo em um mundo enviesado, somos capazes de fornecer dados neutros para o treinamento desses programas? As práticas de &lt;strong&gt;mathwashing&lt;/strong&gt;, quando se utiliza de termos matemáticos para descrever uma realidade mais subjetiva, são não apenas errôneas mas podem ter consequências muito além das imaginadas. Não existem dados perfeitos, e se forem coletados de maneira incorreta, não há matemática que irá prevenir a construção de um produto ruim ou perigoso, como afirma o criador do termo, Fred Benenson. Neste encontro, vamos discutir a importância de se pensar sobre isso tanto na produção do código quanto na obtenção dos dados.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;09/05 - Encontro #4&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dados enviesados e algoritmos tendenciosos: discriminação de raça e gênero na tecnologia&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Dando sequência à palestra anterior, vamos apresentar alguns casos em que o viés dos dados resultaram na criação de algoritmos discriminatórios ou prejudiciais para uma minoria, com enfoque especial em casos de discriminação de raça e gênero. São alguns exemplos emblemáticos, que dizem muito sobre nossa configuração social; dentre os quais os softwares de sentenciamento automático utilizados para orientar e amparar decisões jurídicas nas cortes americanas e que tendem a condenar cidadãos negros, e softwares de reconhecimento de fala, que têm mais dificuldade em reconhecer vozes femininas.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;23/05 - Encontro #5&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bots e fake news: a tecnologia entre manipulação e alienação, com Marcelo Blanco - Artigo 19&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Espalhar boatos, contar mentiras e compartilhar informações imprecisas são práticas que não nasceram com a Internet. Ainda assim, a facilidade em difundir ideias para um grande público e o lucro rápido decorrente de anúncios na rede gerou um aumento na criação e na distribuição de notícias falsas. Esse fenômeno ficou conhecido, especialmente após a corrida presidencial norte-americana de 2016, como fake news. Nesse contexto, os bots (programas automatizados) estão transformando a política. No Twitter, estima-se que haja mais de 50 milhões de contas fazendo uso de programas automatizados para espalhar conteúdo. No Facebook, financiamento de mensagens em perfis falsos gerenciados por bots estão no centro da atuação da Rússia em eventos internacionais, da eleição Americana à Independência da Catalunha. No Brasil, as eleições de 2018 serão invadidas por bots, que transformarão as mídias sociais em campos de manipulação. Mas qual a relação entre bots e fake news? Seriam todos os bots uma ameaça à democracia? E se tivéssemos bots popularizados para uso geral, e se os conteúdos criados por bots fossem baseados em bom jornalismo, e cruciais para a sustentabilidade até de mercados jornalísticos locais? &lt;strong&gt;[Adaptado do site do Instituto de Tecnologia e Sociedade do Rio (ITS Rio).]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;06/06 - Encontro #6&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vigilantismo e sociedade: controle e poder na era da Internet, com Victor Veloso, NETS-USP&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;O Vigilantismo digital é a prática de internautas que se utilizam dos recursos da internet e outras tecnologias digitais para combater alguma prática criminosa ou socialmente recriminada. O vigilantismo pode englobar os mais diversos temas, de golpes na rede à exploração sexual de crianças, passando por questões de proteção ambiental, direitos sexuais e corrupção. Nem sempre a prática condenada é crime e o vigilantismo neste caso pode se confundir com discriminação, intolerância e outros crimes de ódio, além de violar o direito de livre expressão do grupo/população alvo. Há, ainda, o vigilantismo estatal, quando tais 
+Muitas vezes as ações vão além da vigilância e podem passar a reações radicais de justiça com as próprias mãos, invadindo as contas dos suspeitos e revelando as suas identidades para que sejam retaliados não apenas na rede. Há situações em que o vigilantismo desencadeia a ação de justiceiros virtuais e até linchamentos públicos, o que configura uma ação criminosa ao desconsiderar o direito de defesa e de processo formal nos órgãos de justiça. Mesmo quando não ocorre o linchamento físico, são comuns casos de linchamentos públicos na própria Internet, gerando ondas de intimidação e ameaças aos suspeitos.
+&lt;strong&gt;[Texto adaptado do site da SaferNet.]&lt;/strong&gt;&lt;/p&gt;</content><summary type="html">Realizeramos, neste primeiro semestre de 2018, um ciclo de palestras-debates com o intuito de discutir para discutir temas tão atuais quanto necessários sobre responsabilidade tecnológica. Confira a programação e participe!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="images/poster-etica.jpg" /></entry><entry><title type="html">TechShift Summit 2018</title><link href="/blog/summit/" rel="alternate" type="text/html" title="TechShift Summit 2018" /><published>2018-01-20T00:00:00-02:00</published><updated>2018-01-20T00:00:00-02:00</updated><id>/blog/summit</id><content type="html" xml:base="/blog/summit/">&lt;p&gt;O Tecs faz parte do TechShift, uma aliança global de universitários dedicados a usar e pensar a tecnologia para a melhoria do bem-estar social, construindo um futuro tecnológico mais justo para todos e todas. Desta aliança fazem parte universidades como Stanford, UChicago, Princeton, Brown e a USP, que representada pela gente, é a única latino-americana até o momento.&lt;/p&gt;
+
+&lt;p&gt;Como membros do TechShift, fomos convidados à participar do primeiro Summit deste movimento, na Universidade de Chicago, a fim de somar esforços no trabalho com as demais organizações do movimento e articular estratégias de atuação. Entre arrecadação de dinheiro via crowdfunding (no qual a maior parte dos doadores foram professores e professoras do IME) e, principalmente, suporte financeiro por parte do próprio TechShift, dois dos nossos membros, o Artur Magalhães e o Eduardo Laurentino, foram até os EUA representar o grupo, a USP e o Brasil.&lt;/p&gt;
+
+&lt;p&gt;Foram três dias de evento. O primeiro deles quase que inteiramente dedicado à integração entre os participantes, de modo que cada pessoa presente pôde compartilhar um pouco de sua realidade no curso e mesmo social, e transmitir um pouco das motivações em trabalhar com a interface tecnologia e impacto social. Embora a maior parte dos presentes estudassem nos EUA, havia estudantes de diferentes partes do mundo, como Canadá, China, Japão, Grécia, Malásia e nós, do Brasil. Para mediar o debate, contamos com a presença da Deborah Mills, docente da Universidade de Brown e entusiasta do movimento que também comentou sobre as transformações no curso e no perfil de estudantes de ciência da computação que ela observou ao longo dos anos, hoje majoritariamente composto por alunos homens brancos, defendendo assim a necessidade de se trabalhar para que alcancemos diversidade nos estudantes da área, pois estes serão os responsáveis por boa parte da inovação tecnológica do futuro próximo.&lt;/p&gt;
+
+&lt;p&gt;No decorrer dos dias, entre dinâmicas de grupo, sessões de debate e workshops, algumas questões guiaram as discussões acerca do movimento, tais como: qual o problema que estamos tentando resolver e porque isso é um problema? O que significaria um sucesso para o nosso trabalho? É possível que esse trabalho deixe de ser necessário em algum momento? Por que é importante que este movimento seja global? Pelo o que lutaremos e pelo o que não lutaremos?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/~tecs/images/2.jpg&quot; alt=&quot;Discussões e atividades&quot; /&gt; &lt;img src=&quot;/~tecs/images/3.jpg&quot; alt=&quot;Frutos das discussões&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Para tanto, contamos ainda com dois palestrantes. O primeiro deles, Zach Lipp, da Civic Analytics, falou sobre como os trabalhos com ciência dos dados podem ajudar, cada vez mais, a identificar necessidades sociais e discriminá-las com recortes específicos de raça, gênero e classe social, o que é de extrema importância na lógica de governos abertos e para construção de novos modelos de políticas públicas. O segundo foi o Avishek Kumar, do Center for Data Science and Public Policy da Universidade de Chicago, que levantou questões sobre as problemáticas em torno do uso de métodos de machine learning - e inteligências artificiais num geral - na dinâmica social quando não devidamente acompanhadas de cuidados necessários para que essas tecnologias não reproduzam os preconceitos da nossa sociedade, como já ocorre com softwares de policiamento notadamente racistas, por exemplo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/~tecs/images/4.jpg&quot; alt=&quot;Palestras&quot; /&gt; &lt;img src=&quot;/~tecs/images/5.jpg&quot; alt=&quot;Discussões&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Conforme os trabalhos foram terminando e o Summit chegou em seu último dia, ficou ainda mais clara a importância de um movimento como esse, com propósito global. Com as contribuições de pessoas de diferentes partes do mundo, fica evidente que o senso de justiça social, e mais especificamente do que significa causar impacto com e pela tecnologia, não é universal. Logo, construir uma comunidade global engajada nessa missão se faz necessário para que o trabalho feito no movimento possa levar isso em consideração a todo o momento. Com isso em mente, encerramos o Summit com uma missão que contempla esses anseios e norteará o movimento pelos próximos anos:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;“Expand the use of technology as a force for good, minimize the potential harms of technology and amplify voice of a new generation of global leaders working at the intersection of technology and social impact.”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Como Tecs, levamos muito da nossa realidade local, do contexto brasileiro, até lá. E voltamos com muita bagagem para continuar colaborando com o movimento, fortalecendo-o à partir da perspectiva de um país que tem sérios problemas com educação, com assistência social e com responsabilidade de serviços, mas no qual trabalhamos visando agir para a melhoria desse mal estar social. Queremos engajar estudantes de outras universidades brasileiras a construírem seus próprios grupos de computação social e entrarem pra o movimento, nos ajudando a construir um Brasil, uma América Latina e, por que não, um mundo tecnologicamente mais justo para todos e todas.&lt;/p&gt;</content><summary type="html">Em janeiro de 2018, dois membros nossos participaram do TechShift Summit, em Chicago, com membros de grupos de outras dez universidades. Saiba como foi!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="images/1.jpg" /></entry><entry><title type="html">Semana de Computação Social</title><link href="/blog/semana-tecs/" rel="alternate" type="text/html" title="Semana de Computação Social" /><published>2018-01-19T00:00:00-02:00</published><updated>2018-01-19T00:00:00-02:00</updated><id>/blog/semana-tecs</id><content type="html" xml:base="/blog/semana-tecs/">&lt;h2 id=&quot;o-evento&quot;&gt;O Evento&lt;/h2&gt;
+
+&lt;p&gt;A Semana de Computação Social foi realizada entre os dias 21 e 24 de novembro de 2017, com o intuito de apresentar o nosso grupo, recém-formado, para os estudantes, com o objetivo aproximar alunas e alunos às causas sociais e proporcionar reflexões sobre como o profissional de tecnologia pode fazer a diferença na sociedade.&lt;/p&gt;
+
+&lt;p&gt;Ao longo da semana, foram realizadas três palestras, sempre no horário do almoço, versando sobre temas como ética e tecnologia, educação e inclusão tecnólogica, transparência de dados públicos e hacktivismo, e organizações universitárias de cunho social. Além disso, como atividade de encerramento, realizada em parceria com o CinIME, foi exibido o documentário &lt;em&gt;Code Girl&lt;/em&gt; sobre o desafio &lt;em&gt;Technovation&lt;/em&gt;, seguido de uma roda de conversa. Haveria, ainda, uma palestra com a coordenação do &lt;em&gt;Technovation&lt;/em&gt;, mas essa foi cancelada por motivos de força maior.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-programação&quot;&gt;A programação&lt;/h2&gt;
+
+&lt;p&gt;21/11 - Onde ética e tecnologia se encontram?, por Victor Veloso : Núcleo de Estudos em Tecnologia e Sociedade da USP&lt;/p&gt;
+
+&lt;p&gt;Victor Veloso é estudante de Relações Internacionais na USP e pesquisador em diferentes temas referentes a tecnologia e sociedade. Sua pesquisa envolve principalmente temas como Vigilantismo, Governança de Algoritmos, Liberdade de Expressão na Internet e Cyberwar. Foi representante da juventude brasileira no Internet Governance Forum 2016 e atualmente é estagiário na área de Direitos Digitais do Instituto Brasileiro de Defesa do Consumidor (Idec). Também é um dos cofundadores e coordenadores do Núcleo de Estudos em Tecnologia e Sociedade da USP, instituição estudantil que tem como objetivo difundir e estimular o debate sobre temas ligados a tecnologia.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;22/11 - O ensino de Computação em comunidades periféricas, por Gilmar Cintra : Cedesp Santa Terezinha / ProgramArte&lt;/p&gt;
+
+&lt;p&gt;Gilmar Cintra é aluno de Ciência da Computação da Universidade de São Paulo e trabalha como desenvolvedor web interno para o Harvard Brazil Office em São Paulo. Durante a disciplina MAC0213, atividade curricular em comunidade, desenvolveu o projeto ProgramArte, que tem por objetivo ensinar programação e suas aplicações práticas para jovens, adultos e adolescentes residentes na comunidade da Brasilândia. Pensando na parcela da população excluída da revolução tecnológica por motivos socioeconômicos, o projeto busca quebrar essa barreira e profissionalizar alguns jovens, diminuindo assim os riscos sociais e mostrando uma nova alternativa para suas carreiras profissionais.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;24/11 - Painel: Iniciativas de Impacto Social&lt;/p&gt;
+
+&lt;p&gt;► &lt;a href=&quot;https://pt.slideshare.net/haydeesvab/hackativismo-e-transparncia-de-dados-82682026/&quot;&gt;Hacktivismo de transparência de dados&lt;/a&gt;, por Haydee Svab : Transparência Hacker e co-fundadora do PoliGNU&lt;/p&gt;
+
+&lt;p&gt;Engenheira Civil com dupla formação em Arquitetura pela USP, mestra em Engenharia de Transportes (Poli-USP) e especialista em Democracia Participativa, Repúblicas e Movimentos Sociais (UFMG). Atualmente é CEO da ASK-AR, consultoria em análise de dados, conselheira no Conselho Participativo Municipal - Butantã no biênio 2016/2017, membro do Conselho Deliberativo da AEAMESP (Associação dos Engenheiros e Arquitetos de Metrô) no triênio 2017/2019. É membro da comunidade Transparência Hacker e co-fundadora do PoliGNU (Grupo de Estudos de Software Livre da Poli-USP), bem como do PoliGen (Grupo de Estudos de Gênero da Poli-USP).&lt;/p&gt;
+
+&lt;p&gt;► ONGs e o trabalho voluntário, por André Navarro : membro da Poli Social&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;24/11 - Exibição e debate sobre o filme Code Girl&lt;/p&gt;
+
+&lt;p&gt;O filme documenta a vida de jovens mulheres de diversos países, como Brasil, Moldávia e Estados Unidos que participaram do Google Technovation Challenge 2015. O desafio reuniu 5.000 garotas de 60 países e ofereceu um prêmio de US$ 10.000. A produção capta a viagem destas programadoras e visa destacar a falta de mulheres na indústria. De acordo com os números, mais de 80% dos desenvolvedores de aplicativos são do sexo masculino. Como toda sessão do CinIME, haverá pipoca e refrigerante grátis.&lt;/p&gt;</content><summary type="html">Nosso primeiro evento realizado foi a Semana de Computação Social, em novembro de 2017. Leia mais sobre as palestras e debates.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="images/semana.jpg" /></entry></feed>
